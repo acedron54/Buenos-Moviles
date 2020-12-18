@@ -1,0 +1,324 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background:#056c7c;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 100px;
+}
+body{
+    background-color: rgb(133, 177, 167);
+}
+.logo{
+    float: left;
+    width: 100px;
+    margin-right: 10px;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    float: left;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    overflow: hidden;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li a{
+    color:rgb(191, 192, 192);
+    text-decoration: none;
+    padding: 30px;
+}
+nav ul li a:hover{
+    background:#3594a3;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.introduccion p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 90px;
+    margin-left: 100px;
+    width: 42%;
+    font-size: 20px;
+    line-height: 30px;
+}
+.introduccion img{
+    width: 600px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -300px;
+}
+h2{
+    margin-top: 120px;
+    text-align: center;
+    font-size: 40px;
+}
+.xiaomi p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.xiaomi img{
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+}
+.xiaomi table{
+    width: 50%;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    border: #000000;
+    border-collapse: collapse;
+}
+.xiaomi table th,td{
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+}
+.xiaomi table .verde{
+    background-color: green;
+}
+.xiaomi table .rojo{
+    background-color: red;
+}
+.xiaomi table .verde2{
+    background-color: rgb(156, 238, 156);
+}
+.xiaomi table .rojo2{
+    background-color: rgb(231, 133, 133);
+}
+h3{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+}
+.oppo p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.oppo img{
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+}
+.oppo table{
+    width: 50%;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    border: #000000;
+    border-collapse: collapse;
+}
+.oppo table th,td{
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+}
+.oppo table .verde{
+    background-color: green;
+}
+.oppo table .rojo{
+    background-color: red;
+}
+.oppo table .verde2{
+    background-color: rgb(156, 238, 156);
+}
+.oppo table .rojo2{
+    background-color: rgb(231, 133, 133);
+}
+h4{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+}
+.samsung p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.samsung img{
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+}
+.samsung table{
+    width: 50%;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    border: #000000;
+    border-collapse: collapse;
+}
+.samsung table th,td{
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+}
+.samsung table .verde{
+    background-color: green;
+}
+.samsung table .rojo{
+    background-color: red;
+}
+.samsung table .verde2{
+    background-color: rgb(156, 238, 156);
+}
+.samsung table .rojo2{
+    background-color: rgb(231, 133, 133);
+}
+h5{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;  
+}
+.oneplus p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.oneplus img{
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+}
+.oneplus table{
+    width: 50%;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    border: #000000;
+    border-collapse: collapse;
+}
+.oneplus table th,td{
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+}
+.oneplus table .verde{
+    background-color: green;
+}
+.oneplus table .rojo{
+    background-color: red;
+}
+.oneplus table .verde2{
+    background-color: rgb(156, 238, 156);
+}
+.oneplus table .rojo2{
+    background-color: rgb(231, 133, 133);
+}
+h6{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;  
+}
+.realme p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-right: 100px;
+    font-size: 20px;
+    line-height: 30px;
+    width: 50%;
+    float: right;
+}
+div.realme img.foto1{
+    float: left;
+    margin-left: 200px;
+    width: 25%;
+    margin-top: 70px;
+}
+div.realme img.foto2{
+    width: 35%;
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+.realme table{
+    width: 50%;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 100px;
+    margin-top: 80px;
+    border: #000000;
+    border-collapse: collapse;
+}
+.realme table th,td{
+    vertical-align: top;
+    border: 1px solid #000;
+    border-spacing: 0;
+}
+.realme table .verde{
+    background-color: green;
+}
+.realme table .rojo{
+    background-color: red;
+}
+.realme table .verde2{
+    background-color: rgb(156, 238, 156);
+}
+.realme table .rojo2{
+    background-color: rgb(231, 133, 133);
+}
+.comparacion table{
+    width: auto;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 150px;
+    border: #000000;
+    border-collapse: collapse;
+}
+.comparacion table th,td{
+    vertical-align: center;
+    border: 1px solid #000;
+    border-spacing: 0;
+}
+.comparacion table .color1{
+    background-color: rgb(10, 106, 184);
+}
+.comparacion table .color2{
+    background-color: rgb(8, 175, 187);
+}
